@@ -14,5 +14,3 @@ For mac/linux, run:
 pyinstaller --onefile --add-data "Dependencies:Dependencies" Flock.py
 
 The final executable will be in the 'dist' folder
-
-Have a nice summer professor!
